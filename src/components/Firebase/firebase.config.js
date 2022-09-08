@@ -1,10 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyDfXH-KQZAlpdc2fCUpFLvzsxJ_xVz3h_Y",
-  authDomain: "tourism-service-2e24c.firebaseapp.com",
-  projectId: "tourism-service-2e24c",
-  storageBucket: "tourism-service-2e24c.appspot.com",
-  messagingSenderId: "110566006980",
-  appId: "1:110566006980:web:5cb6f41a6574d15ce26991"
+  apiKey: "AIzaSyBAofdYtQKprCUo0yoSOIiq4c1Wj20OKJk",
+  authDomain: "fave-travel.firebaseapp.com",
+  projectId: "fave-travel",
+  storageBucket: "fave-travel.appspot.com",
+  messagingSenderId: "852418887256",
+  appId: "1:852418887256:web:d342a8ccc612c51f8e942d"
   };
 
   export default firebaseConfig;
