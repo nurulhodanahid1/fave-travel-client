@@ -1,0 +1,29 @@
+.color {
+    color: white;
+}
+.login-btn {
+    background-color: black;
+    color: #2563eb;
+    border: 1px solid #2563eb;
+    height: 35px;
+    width: 100px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+.login-btn:hover {
+    background-color: #2563eb;
+    color: white;
+}
+.logout-btn {
+    background-color: black;
+    color: #dc2626;
+    border: 1px solid #dc2626;
+    height: 35px;
+    width: 100px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+.logout-btn:hover {
+    background-color: #dc2626;
+    color: white;
+}

@@ -1,0 +1,15 @@
+.design-card:hover {
+    background-color: rgb(250, 243, 243);
+}
+.card-btn {
+    background-color: white;
+    border-radius: 5px;
+    color: #2563eb;
+    height: 35px;
+    border: 1px solid #2563eb;
+    
+}
+.card-btn:hover {
+    background-color: #2563eb;
+    color: white;
+}
